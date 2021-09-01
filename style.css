@@ -1,0 +1,10 @@
+.card  {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.avatar {
+    margin-top: 10 px;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
